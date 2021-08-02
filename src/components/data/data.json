@@ -1,0 +1,102 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "title": "Home",
+            "key": "Home"
+        },
+        {
+            "id": 2,
+            "title": "Blog",
+            "key": "Blog"
+        },
+        {
+            "id": 3,
+            "title": "Our Products",
+            "key": "Products"
+        },
+        {
+            "id": 4,
+            "title": "Portfolio",
+            "key": "Portfolio"
+        },
+        {
+            "id": 5,
+            "title": "Support",
+            "key": "Support"
+        },
+        {
+            "id": 6,
+            "title": "About us",
+            "key": "About us"
+        },
+        {
+            "id": 7,
+            "title": "Hire Us",
+            "key": "Hire Us"
+        }
+    ],
+
+    "sliders":[
+        {
+            "id":1,
+            "imageLink":"/1.webp",
+            "mobileImageLink":"/1-mobile.webp",
+            "href":"#"
+
+        },
+        {
+            "id":2,
+            "imageLink":"/2.webp",
+            "mobileImageLink":"/2-mobile.webp",
+            "href":"#"
+
+        },
+        {
+            "id":3,
+            "imageLink":"/3.webp",
+            "mobileImageLink":"/3-mobile.webp",
+            "href":"#"
+
+        }
+    ],
+    "services":[
+        {
+            "id":1,
+            "imageLink":"/service1.svg",
+            "title":"Plugin Development",
+            "description":"We are the author of some the best selling  WordPress plugins like WooCommerce Rental & Booking, Reactive Pro etc."
+
+        },
+        {
+            "id":2,
+            "imageLink":"/service2.svg",
+            "title":"Application Development",
+            "description":"We are the author of some the best selling  WordPress plugins like WooCommerce Rental & Booking, Reactive Pro etc."
+
+        },
+        {
+            "id":3,
+            "imageLink":"/service3.svg",
+            "title":"Custom Development",
+            "description":"We are the author of some the best selling  WordPress plugins like WooCommerce Rental & Booking, Reactive Pro etc."
+
+        },
+        {
+            "id":4,
+            "imageLink":"/service3.svg",
+            "title":"React Template",
+            "description":"We are the author of some the best selling  WordPress plugins like WooCommerce Rental & Booking, Reactive Pro etc."
+
+        },
+        {
+            "id":5,
+            "imageLink":"/service3.svg",
+            "title":"Application Development",
+            "description":"We are the author of some the best selling  WordPress plugins like WooCommerce Rental & Booking, Reactive Pro etc."
+
+        }
+    ]
+
+
+}
