@@ -1,5 +1,11 @@
-{
+{   
+    "title":"Code Master",
+    "id":1,
+    "logo":"/logo.png",
+    "description": "Create your online shop with our fully functional WordPress E-commerce. Code Master is a highly intuitive WooCommerce theme that will handle all your online business needs. Start selling anything and everything today.",
+    "moto":"Sell Anything with Code Master!",
     "menu": [
+        
         {
             "id": 1,
             "title": "Home",
@@ -96,6 +102,196 @@
             "description":"We are the author of some the best selling  WordPress plugins like WooCommerce Rental & Booking, Reactive Pro etc."
 
         }
+    ],
+    "products":[
+        {
+            "id":1,
+            "imageLink":"/tab1.webp",
+            "price":"80",
+            "category": "WordPress Theme",
+            "compatibleWith": "Compatible with WooCommerce / RnB / Guterberg / PWA",
+            "title":"Cartsy - Super-fast WordPress WooCommerce Theme",
+            "description":"Fully functional WordPress E-commerce theme for creating your online shop to sell anything and everything."
+
+        },
+        {
+            "id":2,
+            "imageLink":"/tab3.webp",
+            "title":"Cartsy - Super-fast WordPress WooCommerce Theme",
+            "price":"80",
+            "category": "WordPress Theme",
+            "compatibleWith": "Compatible with WooCommerce / RnB / Guterberg / PWA",
+            "description":"Fully functional WordPress E-commerce theme for creating your online shop to sell anything and everything."
+
+        },
+        {
+            "id":3,
+            "imageLink":"/tab4.webp",
+            "title":"Cartsy - Super-fast WordPress WooCommerce Theme",
+            "price":"80",
+            "category": "React Theme",
+            "compatibleWith": "Compatible with WooCommerce / RnB / Guterberg / PWA",
+            "description":"Fully functional WordPress E-commerce theme for creating your online shop to sell anything and everything."
+
+        },
+        {
+            "id":4,
+            "imageLink":"/tab2.webp",
+            "title":"Cartsy - Super-fast WordPress WooCommerce Theme",
+            "price":"80",
+            "category": "WordPress Theme",
+            "compatibleWith": "Compatible with WooCommerce / RnB / Guterberg / PWA",
+            "description":"Fully functional WordPress E-commerce theme for creating your online shop to sell anything and everything."
+
+        },
+        {
+            "id":5,
+            "imageLink":"/tab2.webp",
+            "title":"Cartsy - Super-fast WordPress WooCommerce Theme",
+            "price":"80",
+            "category": "HTML Templates",
+            "compatibleWith": "Compatible with WooCommerce / RnB / Guterberg / PWA",
+            "description":"Fully functional WordPress E-commerce theme for creating your online shop to sell anything and everything."
+
+        },
+        {
+            "id":5,
+            "imageLink":"/tab2.webp",
+            "title":"Cartsy - Super-fast WordPress WooCommerce Theme",
+            "price":"80",
+            "category": "HTML Templates",
+            "compatibleWith": "Compatible with WooCommerce / RnB / Guterberg / PWA",
+            "description":"Fully functional WordPress E-commerce theme for creating your online shop to sell anything and everything."
+
+        }
+    ],
+    "testimonials":[
+        {
+            "id":1,
+            "imageLink":"/leave.svg",
+            "company": "@TripFinder",
+            "clientName": "Clapol",
+            "description":"Author has invested lots of time to sort out this code. So far the cleanest code ive seen here on Envato Market. Even the package.json is up to date. Keep up the good work."
+
+        },
+        {
+            "id":2,
+            "imageLink":"/leave.svg",
+            "company": "@FireMobile",
+            "clientName": "mtoufiq",
+            "description":"Author has invested lots of time to sort out this code. So far the cleanest code ive seen here on Envato Market. Even the package.json is up to date. Keep up the good work."
+
+        },
+        {
+            "id":3,
+            "imageLink":"/leave.svg",
+            "company": "@tripfinder",           
+            "clientName": "Clapol",
+            "description":"Author has invested lots of time to sort out this code. So far the cleanest code ive seen here on Envato Market. Even the package.json is up to date. Keep up the good work."
+
+        },
+        {
+            "id":4,
+            "imageLink":"/leave.svg",
+            "company": "@tripfinder",
+            "clientName": "Clapol",
+            "description":"Author has invested lots of time to sort out this code. So far the cleanest code ive seen here on Envato Market. Even the package.json is up to date. Keep up the good work."
+
+        },
+        {
+            "id":5,
+            "imageLink":"/leave.svg",
+            "company": "@tripfinder",
+            "clientName": "Clapol",
+            "description":"Author has invested lots of time to sort out this code. So far the cleanest code ive seen here on Envato Market. Even the package.json is up to date. Keep up the good work."
+
+        },
+        {
+            "id":6,
+            "imageLink":"/leave.svg",
+            "company": "@tripfinder",
+            "clientName": "Clapol",
+            "description":"Author has invested lots of time to sort out this code. So far the cleanest code ive seen here on Envato Market. Even the package.json is up to date. Keep up the good work."
+
+        }
+    ],
+
+    "footer":[
+        {
+            "id":1,
+            "category":{
+                "title": "Company",
+                "items":[
+                    {
+                        "id":1,
+                        "name": "About"
+                    },
+                    {
+                        "id":2,
+                        "name": "Portfolio"
+                    },
+                    {
+                        "id":3,
+                        "name": "Hire Us"
+                    }
+                ]
+            }
+        },
+
+        {
+            "id":2,
+            "category":{
+                "title": "Our Products",
+                "items":[
+                    {
+                        "id":1,
+                        "name": "Cartsy WordPress Theme"
+                    },
+                    {
+                        "id":2,
+                        "name": "RNB WooCommerce Theme"
+                    },
+                    {
+                        "id":3,
+                        "name": "Picksy - Gatsby Shopify Ecommerce"
+                    },
+                    {
+                        "id":4,
+                        "name": "Cartsy WordPress Theme"
+                    },
+                    {
+                        "id":5,
+                        "name": "RNB WooCommerce Theme"
+                    },
+                    {
+                        "id":6,
+                        "name": "Picksy - Gatsby Shopify Ecommerce"
+                    }
+                ]
+            }
+        },
+
+        {
+            "id":3,
+            "category":{
+                "title": "Support",
+                "items":[
+                    {
+                        "id":1,
+                        "name": "Blog"
+                    },
+                    {
+                        "id":2,
+                        "name": "Supports Tickets"
+                    },
+                    {
+                        "id":3,
+                        "name": "Shoppy Mobile UI"
+                    }
+                ]
+            }
+        }
+
     ]
 
 

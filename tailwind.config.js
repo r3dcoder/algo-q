@@ -1,8 +1,18 @@
 module.exports = {
-  purge: ['./pages/**/*.{js,ts,jsx,tsx}', './components/**/*.{js,ts,jsx,tsx}'],
+  purge: ["./src/**/*.{js,jsx,ts,tsx}"],
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
+      animation: ['hover', 'focus'],
+      keyframes: {
+        wiggle: {
+          "0%, 100%": { transform: "rotate(-3deg)" },
+          "50%": { transform: "rotate(3deg)" }
+        }
+      },
+      animation: {
+        wiggle: "wiggle 200ms ease-in-out"
+      },
       screens: {
 				sm: "480px",
 				lg: "1025px",
@@ -24,12 +34,18 @@ module.exports = {
         '140': '36rem',
 
       },
+      rotate: {
+
+        '8': '8deg',
+        
+       },
       fontFamily: {
         'body': ["'Fira Sans Extra Condensed'"]
       },
       backgroundImage: theme => ({
 
         'white-background': "url('/white-background.jpg')",
+        'pattern-2': "url('/pattern2.png')",
  
        })
     },
@@ -61,8 +77,11 @@ module.exports = {
   },
   variants: {
     extend: {
-
+      fill: ['hover', 'focus'],
     },
+  },
+  variants: {
+    fill: ['hover', 'focus'], // this line does the trick
   },
   plugins: [],
 }

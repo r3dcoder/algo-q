@@ -1,0 +1,43 @@
+{
+    "title":"Cartsy",
+    "id":1,
+    "logo":"/cartsy-logo.svg",
+    "description": "Create your online shop with our fully functional WordPress E-commerce. Cartsy is a highly intuitive WooCommerce theme that will handle all your online business needs. Start selling anything and everything today.",
+    "moto":"Sell Anything with  ",
+    "menu":[
+        {
+            "id": 1,
+            "title": "Home",
+            "key": "home"
+        },
+        {
+            "id": 2,
+            "title": "All Demos",
+            "key": "demos"
+        },
+        {
+            "id": 3,
+            "title": "Pricing",
+            "key": "pricing"
+        },
+        {
+            "id": 4,
+            "title": "Multivendor",
+            "key": "multivendor"
+        },
+        {
+            "id": 5,
+            "title": "Purchase Now",
+            "key": "purchaseNow"
+        },
+        {
+            "id": 6,
+            "title": "Member Login",
+            "key": "memberLogin"
+        }
+        
+    ],
+    "images":[
+
+    ]
+}
